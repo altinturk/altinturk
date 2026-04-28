@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @altinturk
-- 👀 🤖 curious geek
-- 🌱 continuously learning new enterprise tools and languages, programming or spoken
+- 👋 Hi, I’m Alp
+- 👀 🤖 tech-curious 
+- 🌱 continuously learning new tools and languages, programming or spoken
 - 📫 Reach me anywhere via @altinturk
-- 🤝 I’m open to collaborate on giving your business a digital boost. you do business, i do tech. win-win🍻
